@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NegativeAddPIMOrangeHRM_3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8ab82c0-7b38-4c5f-9893-c7a3e811cd5a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('PIM/validatorErrorUsername')</defaultValue>
+      <description></description>
+      <id>abcf0ddc-60fc-479e-be55-aab332ff0bb6</id>
+      <masked>false</masked>
+      <name>actual</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('PIM/validatorErrorUsername')</defaultValue>
+      <description></description>
+      <id>18da9577-f0d1-40db-b716-5ec45cdde1ad</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>

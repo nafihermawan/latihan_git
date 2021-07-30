@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bca8df70-8d48-4392-a3d8-9a0c83db3064</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ba7a0c30-3596-4042-ad4a-e1c11b1098a4</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee9e4b9e-e425-43d1-8db3-46b256414151</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NegativeAddPIMOrangeHRM_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6eea569a-f8cc-4249-ba62-d53b1ba0f73f</testCaseGuid>
+   <variable>
+      <defaultValue>'Should have at least 5 characters'</defaultValue>
+      <description></description>
+      <id>f0e09af5-5a5f-45b7-8932-16265e902772</id>
+      <masked>false</masked>
+      <name>actual</name>
+   </variable>
+   <variable>
+      <defaultValue>'Should have at least 5 characters'</defaultValue>
+      <description></description>
+      <id>8ccf10f8-f879-434b-9c82-bf6ac4e32cff</id>
+      <masked>false</masked>
+      <name>expected</name>
+   </variable>
+</TestCaseEntity>
